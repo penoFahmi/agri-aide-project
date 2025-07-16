@@ -42,5 +42,5 @@ Ikuti langkah-langkah di bawah untuk menyiapkan dan menjalankan proyek secara lo
 ### 1. Klon Repositori
 
 ```bash
-git clone <URL_REPO_ANDA>
+git clone https://github.com/penoFahmi/agri-aide-project.git
 cd agri_aide_project# agri-aide-project
