@@ -43,4 +43,4 @@ Ikuti langkah-langkah di bawah untuk menyiapkan dan menjalankan proyek secara lo
 
 ```bash
 git clone https://github.com/penoFahmi/agri-aide-project.git
-cd agri_aide_project# agri-aide-project
+cd agri-aide-project
