@@ -16,8 +16,8 @@ EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2'
 
 # Ukuran chunk (jumlah karakter) dan overlap
 # Ini untuk memecah teks panjang menjadi potongan-potongan yang bisa diproses AI.
-CHUNK_SIZE = 700  # Misalnya, 700 karakter per chunk
-CHUNK_OVERLAP = 150 # Misalnya, 150 karakter overlap antar chunk
+CHUNK_SIZE = 1000  # Misalnya, 700 karakter per chunk
+CHUNK_OVERLAP = 200 # Misalnya, 150 karakter overlap antar chunk
 
 def load_text_from_directory(directory):
     """Membaca semua file teks dari direktori tertentu."""
